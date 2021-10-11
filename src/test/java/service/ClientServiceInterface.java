@@ -10,8 +10,6 @@ import model.UserDTO;
 public class ClientServiceInterface {
 
     ObjectMapper mapper = new ObjectMapper();
-
-
     UserRestClient userRestClient = new UserRestClient();
 
     @SneakyThrows({

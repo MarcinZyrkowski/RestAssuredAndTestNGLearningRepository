@@ -9,6 +9,6 @@ public class UserRestClient implements UserClient {
     @Override
     public Response sendGetOneUser() {
         return given()
-                .get("https://reqres.in/api" + SINGLE_USER);
+                .get(baseURI + SINGLE_USER);
     }
 }
