@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.equalTo;
 
-public class TestOne {
+public class FirstTests {
 
     @Test
     public void testFirst() {

@@ -1,1 +1,8 @@
-/Users/mzyrkowski/IdeaProjects/MyPactise/src/test/java/tests/TestOne.java
+/Users/mzyrkowski/IdeaProjects/MyPactise/src/test/java/company/user/UserRestClient.java
+/Users/mzyrkowski/IdeaProjects/MyPactise/src/test/java/company/user/UserClient.java
+/Users/mzyrkowski/IdeaProjects/MyPactise/src/test/java/model/DataDTO.java
+/Users/mzyrkowski/IdeaProjects/MyPactise/src/test/java/model/UserDTO.java
+/Users/mzyrkowski/IdeaProjects/MyPactise/src/test/java/model/SupportDTO.java
+/Users/mzyrkowski/IdeaProjects/MyPactise/src/test/java/service/ClientServiceInterface.java
+/Users/mzyrkowski/IdeaProjects/MyPactise/src/test/java/tests/FirstTests.java
+/Users/mzyrkowski/IdeaProjects/MyPactise/src/test/java/tests/GetSingleUserTest.java
