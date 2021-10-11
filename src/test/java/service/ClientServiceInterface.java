@@ -18,8 +18,6 @@ public class ClientServiceInterface {
     public UserDTO getSingleUser(){
         Response response = userRestClient.sendGetOneUser();
         return mapper.readValue(response.getBody().asString(), UserDTO.class);
-
     }
-
 
 }
