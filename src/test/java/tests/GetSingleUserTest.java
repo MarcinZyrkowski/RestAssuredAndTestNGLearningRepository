@@ -8,13 +8,10 @@ public class GetSingleUserTest {
 
     ClientServiceInterface clientServiceInterface = new ClientServiceInterface();
 
-
     @Test
     public void getOneUserTest(){
-
         UserDTO user = clientServiceInterface.getSingleUser();
         System.out.println(user);
-
     }
 
 }

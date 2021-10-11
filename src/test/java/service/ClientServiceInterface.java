@@ -7,8 +7,6 @@ import io.restassured.response.Response;
 import lombok.SneakyThrows;
 import model.UserDTO;
 
-import java.io.IOException;
-
 public class ClientServiceInterface {
 
     ObjectMapper mapper = new ObjectMapper();
